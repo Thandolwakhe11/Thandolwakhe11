@@ -21,13 +21,10 @@ I'm currently interested in opportunities where I can grow my skills in **Softwa
 ## 📂 Projects
 
 ### 🏥 Store Management System
-
 **React | Node.js | Express.js | MySQL**
-
-A web-based system designed to manage patients, appointments, medical records, and reports.
+Designed and developed a Store Management System for small businesses, real-time enventory tracking, role-based login and report generation. Developed using Backend APIs while providing an intuitive user experience using React, Node.JS, Express.JS and MYSQL for database. 
 
 ### 🌦️ Weather Application
-
 **React | Node.js | API Integration**
 
 A weather application that retrieves weather information from an external API and displays it through a user-friendly interface.
@@ -39,6 +36,7 @@ A weather application that retrieves weather information from an external API an
 * IT Support
 * Networking
 * Database Management
+* Cyber Security
 
 ## 📚 Currently Learning
 
